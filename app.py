@@ -1,1 +1,1 @@
- script ("Hello Mundo")
+ print("Hello, Mundo")
