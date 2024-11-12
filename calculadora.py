@@ -7,4 +7,4 @@ def tabuada(n):
 numero = int(input("Digite o número para ver sua tabuada: "))
 
 # Chama a função e exibe a tabuada
-tabuada(numero)
+tabuada(8)
